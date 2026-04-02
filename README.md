@@ -28,13 +28,13 @@ agrícolas, permitindo identificar focos de pragas por coordenadas.
 
 * *Gabriel de Almeida Oliveira* **https://github.com/gab-almeida12**
 
-* *Desenvolvedor 3* **[Link GitHub]**
+* *Miguel Soares de Souza* **[Link GitHub]**
 
-* *Desenvolvedor 4* **[Link GitHub]**
+* *Vitor Hugo Santos de Oliveira* **[Link GitHub]**
 
 * *Desenvolvedor 5* **[Link GitHub]**
 
-## Como Roar o Sistema
+## Como Rodar o Sistema
 
 rode o servidor de desenvolvimento:
 
