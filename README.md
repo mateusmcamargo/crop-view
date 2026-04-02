@@ -1,8 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CropView
 
-## Getting Started
+Projeto feito em [Next.js](https://nextjs.org), bootstrapped com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-First, run the development server:
+## Principais Funcionalidades
+
+* Visualização de Talhões: Interface para identificar áreas críticas da plantação;
+* Apontamento de Problemas: Tela para cadastro e monitoramento de Pragas, Doenças e criação de Eventos;
+* Relatórios de Monitoramento: Resumo de infestação e saúde da cultura;
+* Design Responsivo: Acesso facilitado tanto via desktop quanto dispositivos móveis no campo;
+* Interatividade: Componentes dinâmicos para simulação de dados agrícolas;
+* Mapa Interativo de Talhões: Integração de mapas para visualização geoespacial das propriedades;
+agrícolas, permitindo identificar focos de pragas por coordenadas.
+
+## Tecnologias Utilizadas
+
+* Front-end feito utilizando NextJS;
+* Typescript
+* NodeJS
+* HTML5
+* CSS3 com SCSS;
+
+## Equipe e Metodologia
+
+> Este projeto segue os princípios do Manifesto Ágil, utilizando Scrum para organização das tarefas.
+
+* *Mateus de Melo Camargo* **https://github.com/mateusmcamargo**
+
+* *Gabriel de Almeida Oliveira* **https://github.com/gab-almeida12**
+
+* *Desenvolvedor 3* **[Link GitHub]**
+
+* *Desenvolvedor 4* **[Link GitHub]**
+
+* *Desenvolvedor 5* **[Link GitHub]**
+
+## Como Roar o Sistema
+
+rode o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -16,21 +50,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
