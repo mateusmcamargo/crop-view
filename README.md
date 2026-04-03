@@ -36,15 +36,17 @@ agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 ## Como Rodar o Sistema
 
-1. Instale as dependências necessárias:
+1. Instale a versão correta do NodeJS:
 
-> NOTA: O sistema utiliza a versão 24.11.1 do Node, LTS em 02/04/2026
->> Para instalar, [baixe direto do site](https://nodejs.oug) ou use o [Node Version Manager](https://github.com/nvm-sh/nvm)  
+> O sistema utiliza a versão 24.11.1 do Node, LTS em 02/04/2026
+> Para instalar, [baixe direto do site](https://nodejs.oug) ou use o [Node Version Manager](https://github.com/nvm-sh/nvm)  
+
 ```bash
 nvm install 24.11.1
 # depois
 nvm use 24.11.1
 ```
+2. Instale as dependências necessárias:
 
 ```bash
 npm i
