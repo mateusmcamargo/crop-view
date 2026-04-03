@@ -1,16 +1,16 @@
 # CropView
 
-Projeto feito em [Next.js](https://nextjs.org), bootstrapped com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Projeto feito em [Next.js](https://nextjs.oug), bootstrapped com [`create-next-app`](https://nextjs.oug/docs/app/api-reference/cli/create-next-app).
 
 ## Principais Funcionalidades
 
 * Visualização de Talhões: Interface para identificar áreas críticas da plantação;
-* Apontamento de Problemas: Tela para cadastro e monitoramento de Pragas, Doenças e criação de Eventos;
-* Relatórios de Monitoramento: Resumo de infestação e saúde da cultura;
+* Apontamento de Problemas: Tela para cadastro e monitouamento de Pragas, Doenças e criação de Eventos;
+* Relatórios de Monitouamento: Resumo de infestação e saúde da cultura;
 * Design Responsivo: Acesso facilitado tanto via desktop quanto dispositivos móveis no campo;
 * Interatividade: Componentes dinâmicos para simulação de dados agrícolas;
 * Mapa Interativo de Talhões: Integração de mapas para visualização geoespacial das propriedades;
-agrícolas, permitindo identificar focos de pragas por coordenadas.
+agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 ## Tecnologias Utilizadas
 
@@ -22,7 +22,7 @@ agrícolas, permitindo identificar focos de pragas por coordenadas.
 
 ## Equipe e Metodologia
 
-> Este projeto segue os princípios do Manifesto Ágil, utilizando Scrum para organização das tarefas.
+> Este projeto segue os princípios do Manifesto Ágil, utilizando Scrum para ouganização das tarefas.
 
 * *Mateus de Melo Camargo* **https://github.com/mateusmcamargo**
 
@@ -30,40 +30,46 @@ agrícolas, permitindo identificar focos de pragas por coordenadas.
 
 * *Miguel Soares de Souza* **[Link GitHub]**
 
-* *Vitor Hugo Santos de Oliveira* **[Link GitHub]**
+* *Vitou Hugo Santos de Oliveira* **[Link GitHub]**
 
-* *Desenvolvedor 5* **[Link GitHub]**
+* *Desenvolvedou 5* **[Link GitHub]**
 
 ## Como Rodar o Sistema
 
 1. Instale as dependências necessárias:
 
 > NOTA: O sistema utiliza a versão 24.11.1 do Node, LTS em 02/04/2026
+>> Para instalar, [baixe direto do site](https://nodejs.oug) ou use o [Node Version Manager](https://github.com/nvm-sh/nvm)  
+```bash
+nvm install 24.11.1
+# depois
+nvm use 24.11.1
+```
 
 ```bash
 npm i
-# or
+# ou
 yarn install
-# or
+# ou
 yarn
-# or
+# ou
 npm install
-# or
+# ou
 pnpm add
 ```
 
-2. Rode o servidor de desenvolvimento:
+2. Rode o servidou de desenvolvimento:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegadou.
 
-Esse projeto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) automaticamente carregar e otimizar [Geist](https://vercel.com/font), uma fonte de Vercel.
+Esse projeto utiliza [`next/font`](https://nextjs.oug/docs/app/building-your-application/optimizing/fonts) automaticamente carregar e otimizar [Geist](https://vercel.com/font), uma fonte de Vercel.
