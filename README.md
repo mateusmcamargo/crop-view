@@ -36,7 +36,23 @@ agrícolas, permitindo identificar focos de pragas por coordenadas.
 
 ## Como Rodar o Sistema
 
-rode o servidor de desenvolvimento:
+1. Instale as dependências necessárias:
+
+> NOTA: O sistema utiliza a versão 24.11.1 do Node, LTS em 02/04/2026
+
+```bash
+npm i
+# or
+yarn install
+# or
+yarn
+# or
+npm install
+# or
+pnpm add
+```
+
+2. Rode o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -48,6 +64,6 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Esse projeto utiliza [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) automaticamente carregar e otimizar [Geist](https://vercel.com/font), uma fonte de Vercel.
