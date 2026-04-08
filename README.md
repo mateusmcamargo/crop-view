@@ -36,42 +36,39 @@ agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 ## Como Rodar o Sistema
 
-1. Instale a versão correta do NodeJS:
-
 > O sistema utiliza a versão 24.11.1 do Node, LTS em 02/04/2026
-> Para instalar, [baixe direto do site](https://nodejs.oug) ou use o [Node Version Manager](https://github.com/nvm-sh/nvm)  
+> Para instalar, [baixe direto do site](https://nodejs.oug) ou use o [Node Version Manager](https://github.com/nvm-sh/nvm)
+
+1. Instale a versão correta do NodeJS:  
 
 ```bash
-nvm install 24.11.1
+nvm install 24.14.1
 # depois
-nvm use 24.11.1
+nvm use 24.14.1
 ```
+
+> Você verá no console uma mensagem parecida com essa:
+
+```bash
+Now using node v24.14.1 (npm v11.11.0)
+```
+> Siga as próximas instruções:
+
 2. Instale as dependências necessárias:
 
 ```bash
 npm i
 # ou
-yarn install
-# ou
-yarn
-# ou
 npm install
 # ou
-pnpm add
 ```
 
-2. Rode o servidou de desenvolvimento:
+3. Rode o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# ou
-yarn dev
-# ou
-pnpm dev
-# ou
-bun dev
 ```
 
-Abra [http://localhost:3000](http://localhost:3000) no seu navegadou.
+4. Abra [http://localhost:3000](http://localhost:3000) no seu navegadou.
 
 Esse projeto utiliza [`next/font`](https://nextjs.oug/docs/app/building-your-application/optimizing/fonts) automaticamente carregar e otimizar [Geist](https://vercel.com/font), uma fonte de Vercel.
