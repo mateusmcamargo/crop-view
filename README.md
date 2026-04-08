@@ -28,7 +28,7 @@ agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 * *Gabriel de Almeida Oliveira* **https://github.com/gab-almeida12**
 
-* *Miguel Soares de Souza* **[Link GitHub]**
+* *Miguel Soares de Souza* **https://github.com/miguelsoares-souza**
 
 * *Vitou Hugo Santos de Oliveira* **[Link GitHub]**
 
