@@ -3,11 +3,24 @@
 :root {
     --background: #ffffff;
     --foreground: #171717;
+
+    --pallete-brown: #1F1300;
+    --pallete-blue: #574AE2;
+    --pallete-red: #EB5160;
+    --pallete-green: #00FF9C;
+    --pallete-purple: #F8F0FB;
 }
 
 @theme inline {
     --color-background: var(--background);
     --color-foreground: var(--foreground);
+
+    --color-pallete-brown:  var(--pallete-brown);
+    --color-pallete-blue:   var(--pallete-blue);
+    --color-pallete-red:    var(--pallete-red);
+    --color-pallete-green:  var(--pallete-green);
+    --color-pallete-purple: var(--pallete-purple);
+
     --font-sans: var(--font-geist-sans);
     --font-mono: var(--font-geist-mono);
 }
