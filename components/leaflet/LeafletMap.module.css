@@ -1,0 +1,7 @@
+div.leafletMap {
+  width: 50%;
+  height: 30rem;
+}
+div.leafletMap img.customMarker {
+  filter: drop-shadow(0 0 1px var(--color-pallete-brown));
+}/*# sourceMappingURL=LeafletMap.module.css.map */

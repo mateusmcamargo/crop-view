@@ -1,3 +1,7 @@
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import { config } from "@fortawesome/fontawesome-svg-core";
+config.autoAddCss = false; // prevent font awesome from adding its own css
+
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
@@ -23,7 +27,9 @@ export default function RootLayout({children}: Readonly<{children: React.ReactNo
             lang='pt-br'
             className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
         >
-            <body className=''>{children}</body>
+            <body className=''>
+                {children}
+            </body>
         </html>
     );
 }

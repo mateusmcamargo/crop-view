@@ -1,7 +1,10 @@
+import Link from 'next/link';
+
 export default function Home() {
     return (
         <main>
-            <h1>página principal</h1>
+            <Link href='/map'>Mapa de Talhões</Link>
+            <p>página principal</p>
         </main>
     );
 }
