@@ -33,3 +33,18 @@ Critérios de Aceitação:
 - Exibição de mapa
 - Interação com o usuário
 - Identificação dos talhões
+
+
+
+
+
+
+## Estimativa de Esforço - Story Points
+
+| História | Descrição resumida | Story Points |
+|---|---|---|
+| HU01 | Visualização dos talhões | 5 |
+| HU02 | Cadastro de pragas e doenças | 8 |
+| HU03 | Relatórios de monitoramento | 8 |
+| HU04 | Acesso pelo celular | 5 |
+| HU05 | Mapa interativo de talhões | 8 |
