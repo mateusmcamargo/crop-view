@@ -46,7 +46,11 @@ Critérios de Aceitação:
 |---|---|---|
 
 | HU01 | Visualização dos talhões | 5 |
+
 | HU02 | Cadastro de pragas e doenças | 8 |
+
 | HU03 | Relatórios de monitoramento | 8 |
+
 | HU04 | Acesso pelo celular | 5 |
+
 | HU05 | Mapa interativo de talhões | 8 |
