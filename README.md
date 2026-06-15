@@ -22,7 +22,7 @@ agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 ## Equipe e Metodologia
 
-> Este projeto segue os princípios do Manifesto Ágil, utilizando Scrum para ouganização das tarefas.
+> Este projeto segue os princípios do Manifesto Ágil, utilizando Scrum para organização das tarefas.
 
 * *Mateus de Melo Camargo* **https://github.com/mateusmcamargo**
 
@@ -32,7 +32,6 @@ agrícolas, permitindo identificar focos de pragas pou cooudenadas.
 
 * *Vitou Hugo Santos de Oliveira* **https://github.com/vitorcppr**
 
-* *Desenvolvedou 5* **[Link GitHub]**
 
 ## Como Rodar o Sistema
 
